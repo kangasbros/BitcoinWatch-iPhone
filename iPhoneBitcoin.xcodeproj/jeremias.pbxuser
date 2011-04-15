@@ -1,0 +1,438 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* iPhoneBitcoinAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1041, 591}}";
+			sepNavSelRange = "{499, 0}";
+			sepNavVisRange = "{0, 831}";
+			sepNavWindowFrame = "{{38, 218}, {1057, 634}}";
+		};
+	};
+	1D3623250D0F684500981E51 /* iPhoneBitcoinAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1041, 2574}}";
+			sepNavSelRange = "{2303, 0}";
+			sepNavVisRange = "{1632, 1632}";
+			sepNavWindowFrame = "{{61, 197}, {1057, 634}}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* iPhoneBitcoin */ = {
+		activeExec = 0;
+		executables = (
+			8FAE2664130E84C0005DF010 /* iPhoneBitcoin */,
+		);
+	};
+	28216C950DB411BC00E5133A /* FirstViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1041, 591}}";
+			sepNavSelRange = "{570, 0}";
+			sepNavVisRange = "{0, 882}";
+			sepNavWindowFrame = "{{15, 147}, {1382, 726}}";
+		};
+	};
+	28216C960DB411BC00E5133A /* FirstViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1041, 3731}}";
+			sepNavSelRange = "{2793, 0}";
+			sepNavVisRange = "{3175, 2280}";
+			sepNavWindowFrame = "{{15, 147}, {1382, 726}}";
+		};
+	};
+	28A0AB4B0D9B1048005BE974 /* iPhoneBitcoin_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1127, 630}}";
+			sepNavSelRange = "{195, 0}";
+			sepNavVisRange = "{0, 195}";
+			sepNavWindowFrame = "{{38, 126}, {1382, 726}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 8FAE2664130E84C0005DF010 /* iPhoneBitcoin */;
+		activeSDKPreference = iphoneos4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* iPhoneBitcoin */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* iPhoneBitcoin */,
+		);
+		codeSenseManager = 8FAE267A130E84C2005DF010 /* Code sense */;
+		executables = (
+			8FAE2664130E84C0005DF010 /* iPhoneBitcoin */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXBookmarksDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBookmarksDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					200,
+					200,
+					667,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBookmarksDataSource_LocationID,
+					PBXBookmarksDataSource_NameID,
+					PBXBookmarksDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					863,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					823,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 324577522;
+			PBXWorkspaceStateSaveDate = 324577522;
+		};
+		perUserProjectItems = {
+			8F2F7DAB135439930021AFF6 = 8F2F7DAB135439930021AFF6 /* PBXTextBookmark */;
+			8F2F7EA413587AD80021AFF6 = 8F2F7EA413587AD80021AFF6 /* PBXTextBookmark */;
+			8F51E06513323F920065F66B = 8F51E06513323F920065F66B /* PBXTextBookmark */;
+			8F51E06713323F920065F66B = 8F51E06713323F920065F66B /* PBXTextBookmark */;
+			8F673F9E133DE3BF0009DC96 = 8F673F9E133DE3BF0009DC96 /* PBXTextBookmark */;
+			8F6743E81341F0DA0009DC96 = 8F6743E81341F0DA0009DC96 /* PBXTextBookmark */;
+			8F6744ED13425C180009DC96 = 8F6744ED13425C180009DC96 /* PBXTextBookmark */;
+			8F67452E1343203C0009DC96 = 8F67452E1343203C0009DC96 /* PBXBookmark */;
+			8F674535134323CB0009DC96 = 8F674535134323CB0009DC96 /* PBXBookmark */;
+			8F674536134323CB0009DC96 = 8F674536134323CB0009DC96 /* PBXTextBookmark */;
+			8F67453D134324400009DC96 = 8F67453D134324400009DC96 /* PBXTextBookmark */;
+			8F674540134324A80009DC96 = 8F674540134324A80009DC96 /* PBXTextBookmark */;
+			8F674570134474780009DC96 = 8F674570134474780009DC96 /* PlistBookmark */;
+			8F674571134474780009DC96 = 8F674571134474780009DC96 /* PBXTextBookmark */;
+			8F75E8EC1332466E00799518 = 8F75E8EC1332466E00799518 /* PBXTextBookmark */;
+			8FF93E7B133CDAA200BDEDBF = 8FF93E7B133CDAA200BDEDBF /* PBXTextBookmark */;
+			8FF93EF4133CDBC900BDEDBF = 8FF93EF4133CDBC900BDEDBF /* PBXTextBookmark */;
+		};
+		sourceControlManager = 8FAE2679130E84C2005DF010 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1041, 591}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 373}";
+		};
+	};
+	8D1107310486CEB800E47090 /* iPhoneBitcoin-Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 147}, {1382, 726}}";
+		};
+	};
+	8F2F7DAB135439930021AFF6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* iPhoneBitcoinAppDelegate.m */;
+		name = "iPhoneBitcoinAppDelegate.m: 68";
+		rLen = 0;
+		rLoc = 2218;
+		rType = 0;
+		vrLen = 1633;
+		vrLoc = 1632;
+	};
+	8F2F7EA413587AD80021AFF6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* iPhoneBitcoinAppDelegate.m */;
+		name = "iPhoneBitcoinAppDelegate.m: 69";
+		rLen = 0;
+		rLoc = 2303;
+		rType = 0;
+		vrLen = 1632;
+		vrLoc = 1632;
+	};
+	8F51DFBD1330E6730065F66B /* ASIDownloadCache.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = ASIDownloadCache.h;
+		path = /Users/jeremias/Projects/iPhoneBitcoin/ASIDownloadCache.h;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1127, 633}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 2066}";
+		};
+	};
+	8F51DFC11330E6730065F66B /* ASIHTTPRequest.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = ASIHTTPRequest.h;
+		path = /Users/jeremias/Projects/iPhoneBitcoin/ASIHTTPRequest.h;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1335, 13221}}";
+			sepNavSelRange = "{3085, 0}";
+			sepNavVisRange = "{1057, 1407}";
+		};
+	};
+	8F51DFC71330E6730065F66B /* ASINetworkQueue.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = ASINetworkQueue.h;
+		path = /Users/jeremias/Projects/iPhoneBitcoin/ASINetworkQueue.h;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1035, 1521}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1554}";
+		};
+	};
+	8F51DFFC133123680065F66B /* NSDictionary_JSONExtensions.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = NSDictionary_JSONExtensions.h;
+		path = /Users/jeremias/Projects/iPhoneBitcoin/Source/Extensions/NSDictionary_JSONExtensions.h;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1035, 508}}";
+			sepNavSelRange = "{626, 0}";
+			sepNavVisRange = "{0, 1510}";
+			sepNavWindowFrame = "{{15, 239}, {1057, 634}}";
+		};
+	};
+	8F51E06513323F920065F66B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8F51DFFC133123680065F66B /* NSDictionary_JSONExtensions.h */;
+		name = "NSDictionary_JSONExtensions.h: 16";
+		rLen = 0;
+		rLoc = 626;
+		rType = 0;
+		vrLen = 1510;
+		vrLoc = 0;
+	};
+	8F51E06713323F920065F66B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8F51DFC11330E6730065F66B /* ASIHTTPRequest.h */;
+		name = "ASIHTTPRequest.h: 94";
+		rLen = 0;
+		rLoc = 3085;
+		rType = 0;
+		vrLen = 1407;
+		vrLoc = 1057;
+	};
+	8F673F9E133DE3BF0009DC96 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28A0AB4B0D9B1048005BE974 /* iPhoneBitcoin_Prefix.pch */;
+		name = "iPhoneBitcoin_Prefix.pch: 9";
+		rLen = 0;
+		rLoc = 195;
+		rType = 0;
+		vrLen = 195;
+		vrLoc = 0;
+	};
+	8F6743C91341CFDB0009DC96 /* MarketDepthViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1041, 591}}";
+			sepNavSelRange = "{562, 0}";
+			sepNavVisRange = "{0, 570}";
+		};
+	};
+	8F6743CA1341CFDB0009DC96 /* MarketDepthViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1116, 3705}}";
+			sepNavSelRange = "{756, 0}";
+			sepNavVisRange = "{1877, 888}";
+			sepNavWindowFrame = "{{15, 147}, {1382, 726}}";
+		};
+	};
+	8F6743E81341F0DA0009DC96 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 373;
+		vrLoc = 0;
+	};
+	8F6744ED13425C180009DC96 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8F6743C91341CFDB0009DC96 /* MarketDepthViewController.h */;
+		name = "MarketDepthViewController.h: 24";
+		rLen = 0;
+		rLoc = 562;
+		rType = 0;
+		vrLen = 570;
+		vrLoc = 0;
+	};
+	8F67452E1343203C0009DC96 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 8F674526134320320009DC96 /* Icon@2x.png */;
+	};
+	8F674535134323CB0009DC96 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 8F674525134320320009DC96 /* Icon.png */;
+	};
+	8F674536134323CB0009DC96 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28216C950DB411BC00E5133A /* FirstViewController.h */;
+		name = "FirstViewController.h: 22";
+		rLen = 0;
+		rLoc = 570;
+		rType = 0;
+		vrLen = 882;
+		vrLoc = 0;
+	};
+	8F67453D134324400009DC96 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28216C960DB411BC00E5133A /* FirstViewController.m */;
+		name = "FirstViewController.m: 90";
+		rLen = 0;
+		rLoc = 2793;
+		rType = 0;
+		vrLen = 2280;
+		vrLoc = 3175;
+	};
+	8F674540134324A80009DC96 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8F6743CA1341CFDB0009DC96 /* MarketDepthViewController.m */;
+		name = "MarketDepthViewController.m: 65";
+		rLen = 0;
+		rLoc = 1871;
+		rType = 0;
+		vrLen = 1686;
+		vrLoc = 899;
+	};
+	8F674570134474780009DC96 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* iPhoneBitcoin-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/jeremias/Projects/iPhoneBitcoin/iPhoneBitcoin-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	8F674571134474780009DC96 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* iPhoneBitcoinAppDelegate.h */;
+		name = "iPhoneBitcoinAppDelegate.h: 19";
+		rLen = 0;
+		rLoc = 499;
+		rType = 0;
+		vrLen = 831;
+		vrLoc = 0;
+	};
+	8F75E8531332446F00799518 /* UIView.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = UIView.h;
+		path = "/var/folders/qo/qoT3UDJHE4GEgELCPYA8OE+++TI/-Caches-/com.apple.Xcode.501/CompositeSDKs/iphonesimulator-iPhoneSimulator4.2-fmbtdlbugkdlpvcjduxyzolitdvr/System/Library/Frameworks/UIKit.framework/Headers/UIView.h";
+		sourceTree = "<absolute>";
+	};
+	8F75E8EC1332466E00799518 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8F75E8531332446F00799518 /* UIView.h */;
+		name = "UIView.h: 250";
+		rLen = 0;
+		rLoc = 12935;
+		rType = 0;
+		vrLen = 3478;
+		vrLoc = 10839;
+	};
+	8FAE2664130E84C0005DF010 /* iPhoneBitcoin */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = iPhoneBitcoin;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	8FAE2679130E84C2005DF010 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	8FAE267A130E84C2005DF010 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	8FF93E7B133CDAA200BDEDBF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8F51DFC71330E6730065F66B /* ASINetworkQueue.h */;
+		name = "ASINetworkQueue.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1554;
+		vrLoc = 0;
+	};
+	8FF93EF4133CDBC900BDEDBF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8F51DFBD1330E6730065F66B /* ASIDownloadCache.h */;
+		name = "ASIDownloadCache.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 2066;
+		vrLoc = 0;
+	};
+}

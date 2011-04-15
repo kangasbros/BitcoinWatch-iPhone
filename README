@@ -1,0 +1,6 @@
+- Depencies:
+  - TouchJSON (included)
+  - ASIHttpRequest (included)
+  - Coreplot (not included)
+
+To build, just add the coreplot library to the settings. After that check the "User header search paths" in project settings, so that it directs to coreplot directory.
