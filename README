@@ -3,4 +3,6 @@
   - ASIHttpRequest (included)
   - Coreplot (not included)
 
-To build, just add the coreplot library to the settings. After that check the "User header search paths" in project settings, so that it directs to coreplot directory.
+To build, just add the coreplot library to the project (static install, drag the coreplot project to the iPhonebitcoin project). After that check the "User header search paths" in project settings, so that it directs to coreplot directory.
+
+All code Public Domain except for the libraries.
